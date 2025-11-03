@@ -18,3 +18,7 @@ npm install ai @ai-sdk/openai @ai-sdk/react zod
 
 [https://www.youtube.com/watch?v=5TdjEDIx3xs&list=PLC3y8-rFHvwhZHH2BksCOYAxLmYrQL__H&index=3]
 
+## 04 Stream Text
+
+[https://www.youtube.com/watch?v=1RWBSjT853Q&list=PLC3y8-rFHvwhZHH2BksCOYAxLmYrQL__H&index=4]
+
